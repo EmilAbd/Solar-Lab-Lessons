@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f1f1f1;
+}
+
+.container {
+    max-width: 55%;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.header-buttons {
+    float: right;
+}
+
+.header-buttons_registration {
+    border: none;
+}
+
+.header-buttons_ads {
+    background-color: #4acfee;
+}
+
+.avatar {
+    height: 200px;
+    width: 200px;
+}
+
+.bulletin-board {
+    max-width: 70%;
+    margin: auto;
+}
+
+#name {
+    width: 500px;
+}
+
+.find-button {
+    background-color: #0073cf;
+}
+
+.ads {
+    max-width: 70%;
+    margin: auto;
+}
+
+.table td {
+    padding-bottom: 40px;
+}
+
+.box-model div {
+    float: left;
+    height: 200px;
+    width: 24%;
+    box-sizing: border-box;
+}
